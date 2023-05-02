@@ -1,3 +1,4 @@
-def main:
-    name = input("hello, what your name? ")
-    print(f'peekaboo, how are you today {name}')
+from TuDien import *
+
+tudien = TuDien()
+print(tudien.TuDien)
