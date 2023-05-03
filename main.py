@@ -1,4 +1,5 @@
-from TuDien import *
+from GiaoDien_TuDien import *
 
-tudien = TuDien()
-print(tudien.TuDien)
+interface = GiaoDien_TuDien()
+
+interface.start()
